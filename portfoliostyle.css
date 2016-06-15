@@ -1,0 +1,124 @@
+html{
+	background-color: white;
+}
+body{
+    background-color: white;
+}
+h1 {
+	font-family: "Cabin Condensed";
+	font-size: 48px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+h2 {
+	font-family: "Cabin Condensed";
+	font-size: 24px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+h3 {
+	font-family: "Cabin Condensed";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: "Cabin Condensed";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: "Cabin Condensed";
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: "Cabin Condensed";
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.7em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    color: green;
+}
+.topbox{
+	float: center;
+	padding: 10px;
+	position:relative;
+	padding: 10px;
+	margin: 50px;
+	}
+
+.intro{
+	float: right;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	color: 	black;
+	font-family: Georgia;
+}
+
+h2{
+	font-family: Georgia;
+	color: #DA7214;
+}
+.fb-like{
+	float: center;
+}
+
+.topbox div{
+	position: relative;
+}
+
+p{
+	text-decoration: none;
+	color: black;
+	font-kerning: 
+}
+
+
+}
+div {
+    display: block;
+}
+
+p.endgraf{
+	padding-bottom: 20px;
+
+}
+h2.topichead{
+	font-family: Georgia;
+	text-align: center;
+	background: white;
+	color: black;
+}
+
+body{
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+}
